@@ -30,9 +30,9 @@ This program is licensed under the ISC license.
 
 ## screenshot 
 
-![Webpage Screenshot](./images/.png?raw=true) 
+![Webpage Screenshot](./images/budget.gif?raw=true) 
 
 # Resource links
 
-Heroku Deployment URL : 
+Heroku Deployment URL : https://mighty-bastion-05418.herokuapp.com/
 
