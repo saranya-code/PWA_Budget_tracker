@@ -34,5 +34,5 @@ This program is licensed under the ISC license.
 
 # Resource links
 
-Heroku Deployment URL : https://afternoon-gorge-85233.herokuapp.com/
+Heroku Deployment URL : 
 
